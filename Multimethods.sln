@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RTTI", "CastJolly\CastJolly.vcxproj", "{AAC5A658-42AD-416C-88DE-7D06A65F0966}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoubleDispatch", "DoubleDispatch\DoubleDispatch.vcxproj", "{839513CD-964C-43BE-91F1-B199DC9578E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicCast", "DynamicCast\DynamicCast.vcxproj", "{005CA91A-CAF7-4600-A351-0DFFD3FE358D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC5A658-42AD-416C-88DE-7D06A65F0966}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AAC5A658-42AD-416C-88DE-7D06A65F0966}.Debug|Win32.Build.0 = Debug|Win32
+		{AAC5A658-42AD-416C-88DE-7D06A65F0966}.Release|Win32.ActiveCfg = Release|Win32
+		{AAC5A658-42AD-416C-88DE-7D06A65F0966}.Release|Win32.Build.0 = Release|Win32
+		{839513CD-964C-43BE-91F1-B199DC9578E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{839513CD-964C-43BE-91F1-B199DC9578E1}.Debug|Win32.Build.0 = Debug|Win32
+		{839513CD-964C-43BE-91F1-B199DC9578E1}.Release|Win32.ActiveCfg = Release|Win32
+		{839513CD-964C-43BE-91F1-B199DC9578E1}.Release|Win32.Build.0 = Release|Win32
+		{005CA91A-CAF7-4600-A351-0DFFD3FE358D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{005CA91A-CAF7-4600-A351-0DFFD3FE358D}.Debug|Win32.Build.0 = Debug|Win32
+		{005CA91A-CAF7-4600-A351-0DFFD3FE358D}.Release|Win32.ActiveCfg = Release|Win32
+		{005CA91A-CAF7-4600-A351-0DFFD3FE358D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
