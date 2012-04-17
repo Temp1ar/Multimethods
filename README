@@ -1,0 +1,1 @@
+Multimethods in C++ implemeted via dynamic_casts, RTTI and double dispatch.
